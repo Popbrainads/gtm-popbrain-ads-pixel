@@ -1,5 +1,5 @@
 homepage: "https://github.com/Popbrainads/gtm-popbrain-ads-pixel"
 documentation: "https://github.com/Popbrainads/gtm-popbrain-ads-pixel#readme"
 versions:
-  - sha: "46145116f70de9878739976f22167d8a3097cc23"
+  - sha: "95a7723325b5d896b7898c4212f84e84ed507d36"
     changeNotes: "Initial release v1.0.0 - Custom event tracking for Popbrain Ads platform with flexible parameter support"
